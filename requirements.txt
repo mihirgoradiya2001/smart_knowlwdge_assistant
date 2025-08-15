@@ -1,4 +1,4 @@
-bcrypt==4.3.0
+bcrypt==3.2.2
 celery==5.5.3
 email-validator==2.2.0
 faiss-cpu==1.8.0.post1
@@ -13,11 +13,11 @@ pip-chill==1.0.3
 pydantic-extra-types==2.10.5
 pydantic-settings==2.8.1
 pypdf==5.9.0
+pytest==8.4.1
 python-jose==3.4.0
 python-multipart==0.0.20
 redis==6.1.1
 sentence-transformers==3.2.1
-tzdata==2025.2
 ujson==5.10.0
 uvloop==0.21.0
 watchfiles==0.24.0
